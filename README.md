@@ -62,9 +62,9 @@ node bot.js
 File Structure
 discord-chatbot/
 │
-├── bot.js           # Main bot script
+├── index.js           # Main bot script
 ├── package.json     # Node.js dependencies
-├── .env             # Environment variables (not in repo, create it)
+├── .env             # Environment variables (not in repo, create it)    [This is where or tokens go as well! so this is a necessary file]
 └── README.md        # This file
 This bot provides an engaging chat experience on Discord by leveraging OpenAI's powerful language model. Get ready for some intriguing conversations! 💬🤖
 
